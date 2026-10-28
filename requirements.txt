@@ -1,0 +1,11 @@
+torch==2.14.1
+torchvision==0.29.1
+streamlit==1.66.1
+numpy==2.5.4
+pandas==3.1.0
+scikit-learn==1.9.1
+matplotlib==3.11.2
+Pillow==13.0.0
+grad-cam==1.5.7
+ImageHash==4.3.2
+tqdm==4.70.1

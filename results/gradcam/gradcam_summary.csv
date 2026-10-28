@@ -1,0 +1,13 @@
+image,actual_class,predicted_class,confidence,correct,visualization
+C:\Users\nisha\cnn-industrial-defect-detection\data\NEU-CLS\NEU-CLS\Cr_151.bmp,Cr,Cr,0.683281660079956,True,results\gradcam\gradcam_01.png
+C:\Users\nisha\cnn-industrial-defect-detection\data\NEU-CLS\NEU-CLS\Sc_99.bmp,Sc,Sc,0.8269314169883728,True,results\gradcam\gradcam_02.png
+C:\Users\nisha\cnn-industrial-defect-detection\data\NEU-CLS\NEU-CLS\PS_219.bmp,PS,PS,0.9993078708648682,True,results\gradcam\gradcam_03.png
+C:\Users\nisha\cnn-industrial-defect-detection\data\NEU-CLS\NEU-CLS\Sc_159.bmp,Sc,Sc,0.9949017763137817,True,results\gradcam\gradcam_04.png
+C:\Users\nisha\cnn-industrial-defect-detection\data\NEU-CLS\NEU-CLS\In_200.bmp,In,In,0.9467794299125671,True,results\gradcam\gradcam_05.png
+C:\Users\nisha\cnn-industrial-defect-detection\data\NEU-CLS\NEU-CLS\Pa_245.bmp,Pa,Pa,0.9999070167541504,True,results\gradcam\gradcam_06.png
+C:\Users\nisha\cnn-industrial-defect-detection\data\NEU-CLS\NEU-CLS\PS_14.bmp,PS,PS,0.9998841285705566,True,results\gradcam\gradcam_07.png
+C:\Users\nisha\cnn-industrial-defect-detection\data\NEU-CLS\NEU-CLS\PS_208.bmp,PS,PS,0.9975073933601379,True,results\gradcam\gradcam_08.png
+C:\Users\nisha\cnn-industrial-defect-detection\data\NEU-CLS\NEU-CLS\Pa_160.bmp,Pa,Pa,0.9870330095291138,True,results\gradcam\gradcam_09.png
+C:\Users\nisha\cnn-industrial-defect-detection\data\NEU-CLS\NEU-CLS\In_103.bmp,In,In,0.9732253551483154,True,results\gradcam\gradcam_10.png
+C:\Users\nisha\cnn-industrial-defect-detection\data\NEU-CLS\NEU-CLS\RS_52.bmp,RS,RS,0.9732783436775208,True,results\gradcam\gradcam_11.png
+C:\Users\nisha\cnn-industrial-defect-detection\data\NEU-CLS\NEU-CLS\Pa_152.bmp,Pa,Pa,0.9999328851699829,True,results\gradcam\gradcam_12.png
